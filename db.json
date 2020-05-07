@@ -2,24 +2,17 @@
   "logs": [
     {
       "id": 1,
-      "message": "Changed hd on ws 005",
+      "message": "xxx",
       "attention": false,
-      "date": "03-02-2020",
-      "tech": "Pop Ioan"
+      "tech": "Paul Ionescu",
+      "date": "2020-05-07T11:57:10.129Z"
     },
     {
-      "id": 2,
-      "message": "Ws 007 is not working",
+      "message": "hgfjhcjh",
       "attention": true,
-      "date": "03-02-2020",
-      "tech": "Popescu Gheorghe"
-    },
-    {
-      "id": 3,
-      "message": "Changed memory on ws 050",
-      "attention": false,
-      "date": "03-02-2020",
-      "tech": "Ionescu Paul"
+      "tech": "Ion",
+      "date": "2020-05-07T09:17:48.320Z",
+      "id": 2
     }
   ],
   "techs": [
@@ -37,11 +30,6 @@
       "id": 3,
       "firstName": "Ioan",
       "lastName": "Pop"
-    },
-    {
-      "firstName": "Gigel",
-      "lastName": "Frone",
-      "id": 4
     }
   ]
 }
